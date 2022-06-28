@@ -18,7 +18,7 @@ body {
 .main-content{
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px 70px
+    padding: 105px 90px
 }
 /* about styles */
 .about {
@@ -187,7 +187,6 @@ body {
     background-color: #005945;
     width: 370px;
     padding-top: 40px;
-    padding-left: 40px;
 }
 
 .photo {

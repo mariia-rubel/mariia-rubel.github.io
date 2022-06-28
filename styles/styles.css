@@ -1,6 +1,9 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #E5E5E5;
+    position: relative;
+    width: 1280px;
+    height: 1399px;
 }
 
 /* main styles */

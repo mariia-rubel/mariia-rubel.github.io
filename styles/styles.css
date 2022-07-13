@@ -1,8 +1,11 @@
-body {
+ html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
+ 
+ body {
     font-family: 'Montserrat', sans-serif;
     background-color: #E5E5E5;
-    position: relative;
-    height: 1399px;
+    /* position: relative; */
+    height: 100%;
+   
 }
 
 /* main styles */

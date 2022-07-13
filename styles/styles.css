@@ -192,9 +192,9 @@
     width: 370px;
     padding-top: 40px;
 }
-    @media only screen and (max-width: 767px) {
+    /* @media only screen and (max-width: 767px) {
     body .pull-right{float:none}
-    }
+    } */
 
 .photo {
     width: 370px;

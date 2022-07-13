@@ -4,9 +4,9 @@
     /* position: relative; */
     height: 100%;
 }
-        @media only screen and (max-width: 767px) {
+        /* @media only screen and (max-width: 767px) {
             .content-wrapper .pull-right{float:none}
-        }
+        } */
 /* main styles */
 
 .main {
@@ -14,18 +14,17 @@
     flex-direction: row-reverse;
     width: 1200px;
     margin: 0 auto;
+    
+}
     @media only screen and (max-width: 767px) {
         body .pull-right{float:none!important}
         }
-}
 
 .main-content{
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
     padding: 105px 90px
-    @media only screen and (max-width: 767px) {
-        body .pull-right{float:none!important}
-        }
+
 }
 /* about styles */
 .about {

@@ -5,7 +5,12 @@
     background-color: #E5E5E5;
     /* position: relative; */
     height: 100%;
-   
+    @media only screen and (max-width: 768px) {
+        /* For mobile phones: */
+        [class*="main"] {
+          width: 100%;
+        }
+      }
 }
 
 /* main styles */

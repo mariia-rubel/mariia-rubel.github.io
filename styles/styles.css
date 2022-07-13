@@ -199,7 +199,7 @@
     padding-top: 40px;
 }
     @media only screen and (max-width: 767px) {
-    body .pull-right{float:none}
+    body .pull-right{float:none!important}
     }
 
 .photo {
